@@ -1,5 +1,4 @@
-# TranTheVinh-JM
-# Chia Se Bai Tap C# <BR>
+# Chia Sẻ Bài Tập C-Sharp (C#) <BR>
 
 VerkDoesStuff -  Knowledge Must Be Shared <BR>
 
@@ -11,3 +10,8 @@ Kiến thức là vô tận, mình hạnh phúc khi được share kiến thức
 
 Mình làm bài và học bài theo nhóm Kteam, hãy xem ủng hộ nhé :
 <a href="https://www.howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-1/" target="_blank">Kteam - Lập Trình C# Căn Bản</a>
+
+
+
+
+@TranTheVinh2019
