@@ -1,5 +1,5 @@
 # chiasebaitapcsharp <BR>
-# <bol>TranTheVinh-JM<bol>
+# TranTheVinh-JM
 VerkDoesStuff -  Knowledge Must Be Shared <BR>
 
 Các Bạn Có Thể Dùng File Theo Hai Cách : <BR>
