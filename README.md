@@ -1,7 +1,7 @@
 # chiasebaitapcsharp
 VerkDoesStuff -  Knowledge Must Be Shared
 
-Các Bạn Có Thể Dùng File Theo Hai Cách :
+Các Bạn Có Thể Dùng File Theo Hai Cách : /n
 1 - Tải về, quăng vào thư mục C# và đổi tên nó tương ứng với tên <file>.cs của bạn
 2 - Copy toàn bộ file và dán vào file.cs bạn hiện đang sử dụng
 
